@@ -1,3 +1,5 @@
+![training_progress](https://github.com/user-attachments/assets/42f60ed6-0b86-4fa7-b383-35d9fc50e3e7)
+
 # Heart Failure Prediction — Artificial Neural Network (ANN)
 
 This project uses a **PyTorch-based Artificial Neural Network (ANN)** to predict the likelihood of **heart failure** based on patient medical records.  
